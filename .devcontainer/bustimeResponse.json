@@ -1,0 +1,54 @@
+{
+    "bustime-response": {
+        "prd": [
+            {
+                "tmstmp": "20241212 08:57",
+                "typ": "A",
+                "stpnm": "BON AIR STATION",
+                "stpid": "99904",
+                "vid": "4313",
+                "dstp": 17223,
+                "rt": "SLVR",
+                "rtdd": "SLVR",
+                "rtdir": "INBOUND",
+                "des": "DOWNTOWN",
+                "prdtm": "20241212 09:06",
+                "tablockid": "SLVR-027",
+                "tatripid": "70015",
+                "origtatripno": "14819942",
+                "dly": false,
+                "dyn": 0,
+                "prdctdn": "6",
+                "zone": "",
+                "psgld": "",
+                "stst": 30780,
+                "stsd": "2024-12-12",
+                "flagstop": 0
+            },
+            {
+                "tmstmp": "20241212 08:58",
+                "typ": "A",
+                "stpnm": "BON AIR STATION",
+                "stpid": "99904",
+                "vid": "4308",
+                "dstp": 44489,
+                "rt": "SLVR",
+                "rtdd": "SLVR",
+                "rtdir": "INBOUND",
+                "des": "DOWNTOWN",
+                "prdtm": "20241212 09:26",
+                "tablockid": "SLVR-028",
+                "tatripid": "70016",
+                "origtatripno": "14819943",
+                "dly": false,
+                "dyn": 0,
+                "prdctdn": "26",
+                "zone": "",
+                "psgld": "",
+                "stst": 31980,
+                "stsd": "2024-12-12",
+                "flagstop": 0
+            }
+        ]
+    }
+}
