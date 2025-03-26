@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Open Source Travel Time Map</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css">
+</head>
+<body>
+    <h2>Select Location and Preferences</h2>
+    <div>
+        <label for="travelMode">Travel Mode:</label>
+        <select id="travelMode">
+            <option value="driving-car">Driving</option>
+            <option value="foot-walking">Walking</option>
+            <option value="cycling-regular">Biking</option>
+            <option value="public-transport">Public Transport</option>
+        </select>
+
+        <label for="amenityType">Amenity Type:</label>
+        <select id="amenityType">
+            <option value="restaurant">Restaurants</option>
+            <option value="hospital">Hospitals</option>
+            <option value="school">Schools</option>
+            <option value="supermarket">Supermarkets</option>
+        </select>
+
+        <button onclick="updateLocation()">Update Location</button>
+    </div>
+
+    <div id="map" style="height: 500px;"></div>
+    <p id="travelTime"></p>
+
+    <script>
+        let map = L.map("map").setView([40.4473, -79.9807], 13);
+        L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png").addTo(map);
+
+        let marker;
+        map.on("click", function(e) {
+            if (marker) map.removeLayer(marker);
+            marker = L.marker(e.latlng).addTo(map);
+            updateLocation(e.latlng.lat, e.latlng.lng);
+        });
+
+        async function updateLocation(lat, lon) {
+            // Ensure lat/lon are provided
+            if (!lat || !lon) {
+                if (marker) {
+                    lat = marker.getLatLng().lat;
+                    lon = marker.getLatLng().lng;
+                } else {
+                    alert("Click on the map to select a location.");
+                    return;
+                }
+            }
+
+            const mode = document.getElementById("travelMode").value;
+            const amenityType = document.getElementById("amenityType").value;
+
+            try {
+                const response = await fetch("/update_location", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ lat, lon, mode, amenity_type: amenityType })
+                });
+
+                if (!response.ok) {
+                    throw new Error("Failed to fetch data from server");
+                }
+
+                const data = await response.json();
+                document.getElementById("travelTime").innerText = `Max Travel Time: ${data.max_travel_time} min`;
+
+                // Remove old markers before adding new ones
+                map.eachLayer(layer => {
+                    if (layer instanceof L.Marker && layer !== marker) {
+                        map.removeLayer(layer);
+                    }
+                });
+
+                // Add new markers
+                data.amenities.forEach(place => {
+                    L.marker([place[0], place[1]]).addTo(map).bindPopup(amenityType);
+                });
+
+            } catch (error) {
+                console.error("Error:", error);
+                alert("Something went wrong. Check the console for details.");
+            }
+        }
+    </script>
+</body>
+</html>

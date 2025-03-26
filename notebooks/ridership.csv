@@ -1,0 +1,299 @@
+Route,Stop,Ridership,Name,Lat,Lon
+21,526,848,East Busway Section D,40.444826,-79.991077
+21,541,2,Dinnerbell Rd NB,40.756498,-79.924032
+21,508,304,Dinnerbell Rd Rt8,40.7567,-79.9242
+21,511,494,Duncan Ave PNR NB,40.558887,-79.959068
+21,543,160,Duncan Avenue PNR SB,40.55879,-79.95928
+21,525,0,East Busway Penn Station,40.443534,-79.993252
+21,539,43,Gibsonia Rd Rt 8 NB,40.634447,-79.939676
+21,509,123,Gibsonia Rd Rt8 SB,40.635032,-79.93978
+21,504,13,Glade Run Church PNR,40.715574,-79.929023
+21,540,159,Glade Run RT8 NB,40.715349,-79.929305
+21,503,1,Mike Kelly Dealership,40.816292,-79.9276
+21,542,20,Mike Kelly Rt8 NB,40.816326,-79.927417
+21,501,371,Pullman Square PNR at 130 Hollywood Dr.,40.852261,-79.909594
+21,524,137,Strawberry Way/Steel Tower,40.441422,-79.995349
+21,502,22,Super 8 Route 8 SB,40.840418,-79.918715
+21,257,562,Terminal New Castle St.,40.861722,-79.896562
+21,219,15,Tesla Bio (Former Days Inn),40.84038,-79.918465
+21,538,31,Wildwood Rd NB,40.590207,-79.948235
+21,510,76,Wildwood Rd Rt8 SB,40.590391,-79.94843
+22,526,749,East Busway Section D,40.444826,-79.991077
+22,541,11,Dinnerbell Rd NB,40.756498,-79.924032
+22,508,21,Dinnerbell Rd Rt8,40.7567,-79.9242
+22,511,707,Duncan Ave PNR NB,40.558887,-79.959068
+22,543,195,Duncan Avenue PNR SB,40.55879,-79.95928
+22,525,0,East Busway Penn Station,40.443534,-79.993252
+22,539,70,Gibsonia Rd Rt 8 NB,40.634447,-79.939676
+22,509,129,Gibsonia Rd Rt8 SB,40.635032,-79.93978
+22,504,210,Glade Run Church PNR,40.715574,-79.929023
+22,540,46,Glade Run RT8 NB,40.715349,-79.929305
+22,503,0,Mike Kelly Dealership,40.816292,-79.9276
+22,542,12,Mike Kelly Rt8 NB,40.816326,-79.927417
+22,501,462,Pullman Square PNR at 130 Hollywood Dr.,40.852261,-79.909594
+22,524,225,Strawberry Way/Steel Tower,40.441422,-79.995349
+22,502,106,Super 8 Route 8 SB,40.840418,-79.918715
+22,257,"1,289",Terminal New Castle St.,40.861722,-79.896562
+22,219,18,Tesla Bio (Former Days Inn),40.84038,-79.918465
+22,538,31,Wildwood Rd NB,40.590207,-79.948235
+22,510,211,Wildwood Rd Rt8 SB,40.590391,-79.94843
+23,554,0,Rt68 at Ash Ave NB,40.774034,-80.054278
+23,521,0,Rt 68 at Ash Stop Rd SB,40.786488,-80.034801
+23,553,0,Rt68 at Ash Stop Rd NB,40.786483,-80.034632
+23,532,0,Rt. 68 at Brandywine SB,40.852673,-79.982916
+23,548,0,Rt68 at Brandywine NB,40.852494,-79.982852
+23,526,"1,100",East Busway Section D,40.444826,-79.991077
+23,534,0,Rt 68 at Constitution Ave SB,40.818516,-80.010374
+23,551,2,Rt 68 at Constitution Ave NB,40.818387,-80.010192
+23,525,0,East Busway Penn Station,40.443534,-79.993252
+23,556,136,Edco Park NB,40.769082,-80.06626
+23,517,14,Edco Park Evans City,40.769134,-80.066039
+23,537,18,Jackson St. Evans City,40.769513,-80.061423
+23,555,2,Jackson St. NB,40.769353,-80.061597
+23,544,0,Malwood Dr. NB,40.868051,-79.923618
+23,527,211,New Castle Rd at Malwood SBDr,40.868131,-79.923517
+23,557,4,Rt68 at Meridian NB,40.862148,-79.967789
+23,550,1,Rt68 @ Moose NB,40.827424,-80.010091
+23,533,0,Rt 68 at Moose Rd,40.827508,-80.010196
+23,501,456,Pullman Square PNR at 130 Hollywood Dr.,40.852261,-79.909594
+23,552,0,Rt68 at Reibold NB,40.808398,-80.014999
+23,535,0,Rt 68 at Reibold Rd SB,40.808758,-80.015007
+23,518,"1,944",Rt 528 Park N Ride,40.759766,-80.115454
+23,528,10,Rt 68 at S. Duffy,40.867874,-79.93979
+23,545,3,Rt.68 @ S. Duffy NB,40.867767,-79.93975
+23,536,2,Rt. 68 at Ash Ave SB,40.774165,-80.054327
+23,530,8,S. Benbrook at Benbrook SB,40.862348,-79.967578
+23,531,0,Kriess at Eagle Mill Rd SB,40.853818,-79.98095
+23,547,3,Rt68 Kriess NB,40.853608,-79.981093
+23,549,0,Rt68 Stevenson NB,40.842995,-79.994527
+23,520,0,Rt 68 at Stevenson Rd,40.843147,-79.994338
+23,529,21,Rt68 at Stirling,40.867275,-79.950082
+23,226,13,Stirling Village,40.867148,-79.950159
+23,524,5,Strawberry Way/Steel Tower,40.441422,-79.995349
+24,554,4,Rt68 at Ash Ave NB,40.774034,-80.054278
+24,521,0,Rt 68 at Ash Stop Rd SB,40.786488,-80.034801
+24,553,0,Rt68 at Ash Stop Rd NB,40.786483,-80.034632
+24,532,0,Rt. 68 at Brandywine SB,40.852673,-79.982916
+24,548,0,Rt68 at Brandywine NB,40.852494,-79.982852
+24,526,"1,045",East Busway Section D,40.444826,-79.991077
+24,534,4,Rt 68 at Constitution Ave SB,40.818516,-80.010374
+24,551,0,Rt 68 at Constitution Ave NB,40.818387,-80.010192
+24,525,0,East Busway Penn Station,40.443534,-79.993252
+24,517,25,Edco Park Evans City,40.769134,-80.066039
+24,537,47,Jackson St. Evans City,40.769513,-80.061423
+24,555,2,Jackson St. NB,40.769353,-80.061597
+24,544,0,Malwood Dr. NB,40.868051,-79.923618
+24,527,184,New Castle Rd at Malwood SBDr,40.868131,-79.923517
+24,557,0,Rt68 at Meridian NB,40.862148,-79.967789
+24,550,0,Rt68 @ Moose NB,40.827424,-80.010091
+24,533,0,Rt 68 at Moose Rd,40.827508,-80.010196
+24,501,282,Pullman Square PNR at 130 Hollywood Dr.,40.852261,-79.909594
+24,552,0,Rt68 at Reibold NB,40.808398,-80.014999
+24,535,0,Rt 68 at Reibold Rd SB,40.808758,-80.015007
+24,518,"3,370",Rt 528 Park N Ride,40.759766,-80.115454
+24,528,3,Rt 68 at S. Duffy,40.867874,-79.93979
+24,545,0,Rt.68 @ S. Duffy NB,40.867767,-79.93975
+24,536,0,Rt. 68 at Ash Ave SB,40.774165,-80.054327
+24,530,0,S. Benbrook at Benbrook SB,40.862348,-79.967578
+24,531,3,Kriess at Eagle Mill Rd SB,40.853818,-79.98095
+24,547,0,Rt68 Kriess NB,40.853608,-79.981093
+24,549,0,Rt68 Stevenson NB,40.842995,-79.994527
+24,520,0,Rt 68 at Stevenson Rd,40.843147,-79.994338
+24,529,1,Rt68 at Stirling,40.867275,-79.950082
+24,226,0,Stirling Village,40.867148,-79.950159
+24,524,85,Strawberry Way/Steel Tower,40.441422,-79.995349
+1,165,242,6th and New Castle going down hill,40.862748,-79.908656
+1,204,30,Alameda Park Rd at Plaza entrance,40.871909,-79.93176
+1,192,292,Stop sign at Bank,40.876782,-79.951377
+1,238,"1,488",Chestnut and Rt.68 (Jefferson),40.861182,-79.900471
+1,235,454,Chestnut and Brady St.,40.863503,-79.900515
+1,237,128,Chestnut and New Castle,40.861804,-79.900458
+1,236,339,Chestnut and North St.,40.862463,-79.900489
+1,29,207,Cunningham and 3rd,40.862189,-79.905586
+1,146,253,Cunningham and Chestnut,40.859875,-79.900297
+1,239,"1,153",Doughboy Park - Mercer and 68,40.862259,-79.905573
+1,184,4,Duffy and Hazelette,40.863944,-79.939676
+1,185,32,Duffy and Route 68,40.867587,-79.939845
+1,11,83,East Penn at N McKean RT1,40.865039,-79.893429
+1,39,896,Cunningham St by former Family Video,40.861769,-79.904538
+1,3,"2,014",Franklin and Brady St.,40.863375,-79.891275
+1,4,533,Franklin and Penn,40.864952,-79.891228
+1,191,"3,531",Giant Eagle at Moraine Point Plaza,40.875212,-79.949994
+1,17,117,Hansen and Austin Ave.,40.859666,-79.910859
+1,21,95,Hansen Ave. and Woodrow St.,40.853803,-79.911833
+1,259,114,Home Depot/Lowes Rt1,40.872851,-79.952406
+1,168,255,Kings Restaurant by Motel sign,40.867963,-79.923375
+1,222,252,Kohls,40.87909,-79.947854
+1,166,120,Edwards and BHS Entrance,40.866957,-79.921029
+1,194,123,New Castle Rd at McCandless,40.872489,-79.938647
+1,193,66,New Castle at Hindman across from Sheetz,40.877019,-79.948906
+1,15,701,New Castle and N. 6th Ave.,40.862823,-79.908412
+1,186,"1,058",Stop Sign by Ollies,40.874882,-79.951463
+1,195,786,Panera in Butler Commons,40.876266,-79.944207
+1,200,"1,092",Park Manor Shelter,40.872778,-79.931449
+1,7,650,Penn and Bluff St.,40.86513,-79.898972
+1,5,486,Penn and Main St.,40.865076,-79.895016
+1,8,681,Penn and Chestnut St.,40.865132,-79.900465
+1,6,112,Penn and Washington St.,40.865099,-79.896754
+1,28,443,Penndot center in Point Plaza,40.869049,-79.929303
+1,258,849,Renaissance @ Steps,40.855365,-79.911339
+1,187,54,Route 68 and Eberhart,40.866541,-79.954262
+1,188,59,Route 68 and back entrance of VA,40.867724,-79.944309
+1,27,"2,099",Sharp Shopper in Point Plaza,40.86955,-79.930319
+1,189,10,Stirling Village,40.86707,-79.951246
+1,199,"2,004",Target in Butler Commons,40.875348,-79.942444
+1,257,"15,017",Terminal New Castle St.,40.861722,-79.896562
+1,1,"1,555",Terrace Apartments,40.860586,-79.892732
+1,197,"1,454",Butler VA Health,40.873719,-79.943843
+1,179,18,Vagabond Center,40.852592,-79.916627
+1,196,"12,982",Walmart in Butler Commons,40.87738,-79.942871
+1,26,677,Whitestown Chesapeake,40.85149,-79.913932
+1,183,"1,303",Whitestown and Duffy by Good Guyz,40.859486,-79.939273
+1,182,23,Whitestown and Home Ave,40.859616,-79.935175
+1,176,294,Whitestown and Villa Drive,40.859787,-79.928739
+1,164,42,Whitestown and Young,40.859857,-79.932591
+6,260,81,AHN Cancer Center,40.850484,-79.909256
+6,234,126,Alton St. at Bessemer,40.848802,-79.920107
+6,57,"1,510",Butler Arbors Apartments,40.85572,-79.885989
+6,25,113,Armco and Chesapeake,40.848685,-79.913641
+6,262,674,Bartok Circle at BC3,40.829558,-79.913128
+6,134,76,Butler County Community College,40.826436,-79.911643
+6,66,293,Center and Morton Ave Ext,40.84483,-79.881371
+6,62,46,Center and South,40.852453,-79.884764
+6,61,91,Center and Standard may also use Hickory,40.853492,-79.886362
+6,64,73,Center and Wallula,40.850384,-79.88146
+6,65,139,Center and Whippo,40.849186,-79.881459
+6,125,0,Coverdale and Alhambra at Roosevelt,40.848724,-79.902418
+6,146,186,Cunningham and Chestnut,40.859875,-79.900297
+6,218,1,Decatur BC3,40.826601,-79.915266
+6,55,940,Donut Connection Shelter,40.855156,-79.889447
+6,73,12,Graham and Morton,40.847894,-79.890421
+6,139,"4,622",former Friedmans at Greater Butler Mart,40.843343,-79.917997
+6,123,767,Greenview Garden Apts,40.851719,-79.901461
+6,141,25,Hansen Ave at Pullman light,40.854201,-79.911646
+6,198,93,Kaufman at 100 Block,40.856096,-79.882038
+6,59,900,Kaufman and Zeigler Dr,40.854103,-79.88169
+6,87,663,Lafayette Apartments,40.858543,-79.895418
+6,129,0,Litman Road,40.842247,-79.902656
+6,132,39,Mama Rosa,40.829245,-79.908823
+6,69,63,McQuistion and Mechling,40.845378,-79.888856
+6,71,4,McQuistion and Ritter Ave,40.845223,-79.893402
+6,70,0,Meadowood,40.845283,-79.891753
+6,80,154,Morton and Brugh,40.853359,-79.895179
+6,76,18,Morton and Cottage Hill,40.85085,-79.890355
+6,77,24,Morton and Fairview Avenue,40.851507,-79.890622
+6,79,179,Morton and Freemont,40.853075,-79.892654
+6,75,1,Morton and East Patterson,40.85004,-79.890306
+6,78,108,Morton and Walker Ave,40.852453,-79.891763
+6,131,103,Old Plank and Dutchtown,40.836127,-79.904889
+6,130,"1,916",Old Plank Estates,40.837486,-79.902756
+6,133,0,Old Plank and Spooner,40.827944,-79.909386
+6,127,63,Old Plank and Grandview Blvd,40.847887,-79.901778
+6,128,1,Old Plank and Walters,40.845527,-79.900538
+6,144,111,Pillow and 3rd,40.860389,-79.906158
+6,145,100,Pillow and Cunningham,40.861364,-79.904221
+6,142,83,Pillow and South 6th,40.860254,-79.908642
+6,126,132,Pittsburgh Pike,40.846176,-79.90026
+6,227,27,Renaissance Drive,40.85504,-79.911293
+6,72,126,Ritter and Rockenstein,40.847366,-79.893533
+6,74,2,Rockenstein and Morton,40.847504,-79.890543
+6,122,8,Roosevelt Blvd,40.853654,-79.899418
+6,20,81,Sav-A-Lot in Pullman Square,40.858728,-79.908618
+6,67,440,Sunnyview,40.84699,-79.886865
+6,257,"16,923",Terminal New Castle St.,40.861722,-79.896562
+6,219,246,Tesla Bio (Former Days Inn),40.84038,-79.918465
+6,18,516,Woody Drive Shelter,40.854701,-79.908605
+6,60,172,Zeigler and Center,40.854052,-79.88685
+3,105,248,Second at Eau Claire,40.864091,-79.883979
+3,109,468,Butler Townshouses,40.868849,-79.895137
+3,160,32,Beech Rd and Rt 8,40.885913,-79.901788
+3,250,"1,870",BHS Crossroads Campus,40.875135,-79.875569
+3,213,849,BMH Tower,40.86722,-79.880387
+3,159,323,Bon Aire Shopping,40.882226,-79.898593
+3,46,182,Brady and McKean St,40.863496,-79.893463
+3,97,231,Butler Memorial Hospital,40.866881,-79.881723
+3,102,4,Carbon and Second,40.862716,-79.883309
+3,101,197,Carbon at Third,40.86297,-79.882059
+3,252,"1,836",Care and Rehab Center,40.900833,-79.911773
+3,238,"2,238",Chestnut and Rt.68 (Jefferson),40.861182,-79.900471
+3,116,360,Chestnut and Jefferson St,40.860962,-79.900527
+3,119,878,Chestnut and Wayne,40.856989,-79.900446
+3,221,140,Childrens Ctr,40.883334,-79.901413
+3,89,"1,408",Cliffside Apartments,40.857659,-79.89365
+3,104,35,Eau Claire at First,40.863826,-79.885175
+3,107,169,Advanced Auto at Evans Rd,40.882832,-79.89937
+3,103,262,First at Carbon,40.862521,-79.88491
+3,106,"3,994",Food Court at the Clearview Mall,40.896975,-79.905548
+3,3,"1,269",Franklin and Brady St.,40.863375,-79.891275
+3,91,"1,480",Grapevine Center Shelter,40.862072,-79.889161
+3,155,442,Lumar Village,40.871465,-79.891572
+3,110,1,Main and W Pearl,40.866726,-79.895162
+3,111,18,Main and Penn St,40.86513,-79.895268
+3,112,52,Main and West Brady St,40.863496,-79.895271
+3,88,530,Main and Wayne across post office,40.856983,-79.895106
+3,157,128,McKean at Polk,40.868664,-79.893413
+3,54,16,McKean at Cunningham Geibels,40.859718,-79.89361
+3,156,57,McKean at E. Penn RT3,40.864993,-79.893496
+3,154,345,McKean and Fulton,40.867175,-79.893446
+3,153,97,McKean at Pearl Street,40.86635,-79.893467
+3,108,161,Butler Medical Assoc Avada Bldg,40.877479,-79.898754
+3,148,419,Pearl at Second,40.866816,-79.885226
+3,151,38,Pearl and Elm Street,40.866405,-79.889667
+3,152,216,Pearl and Franklin Street,40.866313,-79.891369
+3,150,265,Pearl and Monroe Street,40.866407,-79.888676
+3,149,128,Pearl and Oak Street,40.866418,-79.887723
+3,257,"14,661",Terminal New Castle St.,40.861722,-79.896562
+3,1,974,Terrace Apartments,40.860586,-79.892732
+3,96,203,Third St at E. Brady,40.866742,-79.883281
+3,163,"2,965",Texas Roadhouse,40.895088,-79.904873
+5,225,18,Rt 68 and Duffy,40.867658,-79.939944
+5,48,122,Route 68 and Benbrook Rd by Sheetz,40.862338,-79.967595
+5,49,797,Benbrook Medical Center,40.865703,-79.969134
+5,9,566,W. Brady at N. Chesnut on Rt5,40.86346,-79.900449
+5,217,160,Brady at Main rt5,40.863508,-79.895065
+5,46,831,Brady and McKean St,40.863496,-79.893463
+5,113,599,Brady and Washington St,40.863524,-79.896805
+5,238,"1,947",Chestnut and Rt.68 (Jefferson),40.861182,-79.900471
+5,237,182,Chestnut and New Castle,40.861804,-79.900458
+5,236,573,Chestnut and North St.,40.862463,-79.900489
+5,89,"2,605",Cliffside Apartments,40.857659,-79.89365
+5,146,495,Cunningham and Chestnut,40.859875,-79.900297
+5,147,5,Cunningham and Washington,40.859943,-79.89702
+5,208,"1,198",Dollar Tree,40.879318,-79.944818
+5,239,"1,636",Doughboy Park - Mercer and 68,40.862259,-79.905573
+5,205,451,Duffy and Whitestown on return trip,40.859413,-79.938779
+5,39,"2,296",Cunningham St by former Family Video,40.861769,-79.904538
+5,3,"2,855",Franklin and Brady St.,40.863375,-79.891275
+5,19,458,Gabes in Pullman Square,40.85701,-79.908762
+5,141,6,Hansen Ave at Pullman light,40.854201,-79.911646
+5,169,"1,290",Harbor Freight at Moraine Point,40.875306,-79.952892
+5,202,114,Hindman Rd at Sheetz,40.877889,-79.94866
+5,222,656,Kohls,40.87909,-79.947854
+5,87,577,Lafayette Apartments,40.858543,-79.895418
+5,54,2,McKean at Cunningham Geibels,40.859718,-79.89361
+5,203,89,New Castle at McCandless (Keelan),40.872533,-79.938273
+5,10,33,New Castle across BHS Entrance on Rt5,40.867179,-79.92111
+5,256,115,New Castle at Alameda Plaza hot dog shop,40.871015,-79.932884
+5,15,"1,932",New Castle and N. 6th Ave.,40.862823,-79.908412
+5,144,47,Pillow and 3rd,40.860389,-79.906158
+5,145,194,Pillow and Cunningham,40.861364,-79.904221
+5,142,24,Pillow and South 6th,40.860254,-79.908642
+5,261,177,Regal at Lowes Rt5,40.873078,-79.952384
+5,227,41,Renaissance Drive,40.85504,-79.911293
+5,187,29,Route 68 and Eberhart,40.866541,-79.954262
+5,255,336,New Castle at Wendys,40.870273,-79.929976
+5,190,108,Sams Club at Moraine Point Plaza,40.876965,-79.953325
+5,20,294,Sav-A-Lot in Pullman Square,40.858728,-79.908618
+5,45,291,356 at Skate Castle,40.868123,-79.923486
+5,226,154,Stirling Village,40.867148,-79.950159
+5,257,"10,983",Terminal New Castle St.,40.861722,-79.896562
+5,1,"1,339",Terrace Apartments,40.860586,-79.892732
+5,254,50,Thompson Greene Apts.,40.881942,-79.940918
+5,253,"2,108",VA Heath Care Ctr Duffy Rd.,40.888601,-79.943687
+5,196,"8,853",Walmart in Butler Commons,40.87738,-79.942871
+5,115,31,Washington and Jefferson St by PARC,40.861136,-79.897017
+5,85,444,Wayne at Ford Lot and Post Office,40.856984,-79.895081
+5,120,0,Wayne and Washington St,40.857161,-79.897051
+5,22,338,Whitestown at Chesapeake Rt5,40.85139,-79.913953
+5,164,68,Whitestown and Young,40.859857,-79.932591
+5,18,439,Woody Drive Shelter,40.854701,-79.908605

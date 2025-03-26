@@ -145,7 +145,7 @@ bool getBusInfo(void)
     www.fastrprint(F("/")); www.fastrprint(F("?"));
     www.fastrprint(F("stop=")); www.fastrprint(STOP_ID);
     www.fastrprint(F("&route=")); www.fastrprint(ROUTE_ID);
-    www.fastrprint(F("&max_visits=")); www.fastrprint(MAX_VISITS);
+    //www.fastrprint(F("&max_visits=")); www.fastrprint(MAX_VISITS);
     www.fastrprint(F(" HTTP/1.1\r\n"));
     www.fastrprint(F("Host: ")); www.fastrprint(F("192.168.5.50")); www.fastrprint(F("\r\n"));
     www.fastrprint(F("\r\n"));
